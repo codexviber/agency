@@ -1,0 +1,1 @@
+import{g as e}from"./index-t2hr-Sjs.js";var t=e();function n({className:e=`h-10 w-10`}){return(0,t.jsx)(`img`,{src:`/brand/logo.png`,alt:``,width:176,height:140,className:`object-contain mix-blend-screen ${e}`})}export{n as t};

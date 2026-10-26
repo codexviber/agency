@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "CodeXViber — Ideas → Code → Impact",
+      "hasCanvas": false,
+      "bodyTextLen": 2999,
+      "bodyTextHash": "0053cec73ceae019b75e4b9b350a64035ad53b8d01255ff5cfb21e7a2fecd201",
+      "bodyTextPrefix": "CodeXViber IDEAS TO IMPACT Skip to content CodeXViber Ideas → Co",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "CodeXViber — Ideas → Code → Impact",
+      "hasCanvas": false,
+      "bodyTextLen": 2925,
+      "bodyTextHash": "896a7f54469398fa267cc9d8446245dc1d4b08aefbecf9938c62a65e71c1c5d9",
+      "bodyTextPrefix": "CodeXViber IDEAS TO IMPACT Skip to content CodeXViber Menu DIGIT",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
